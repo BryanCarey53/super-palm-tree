@@ -1,2 +1,3 @@
 # super-palm-tree
-Repository for daily personal projects
+Junior Application Developer looking to become the next biggest tech mogul.
+I like growing fruit trees, cooking, & working out.
